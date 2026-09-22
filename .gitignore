@@ -1,0 +1,40 @@
+# Python virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large datasets
+dataset/
+datasets/
+data/
+
+# Large video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# ML models
+*.pth
+*.pt
+*.h5
+*.onnx
+
+# Generated files
+output/
+outputs/
+runs/
+
+# VS Code
+.vscode/
